@@ -1,0 +1,4 @@
+pneumo_vision/results/
+*.pyc
+*.tar
+*.gz
